@@ -1,0 +1,153 @@
+[
+    {
+        "id":1,
+        "titulo": "Peluches de One Piece",
+        "imagen": "../img/sg-11134201-7rbmy-lpj9ntjle59o34.jpeg",
+        "precio": 45.000,
+        "categoria": {
+            "nombre": "Peluches",
+            "id": "peluches"
+        }
+    },
+    {
+        "id":2,
+        "titulo": "Peluches de barcos de One Piece",
+        "imagen": "../img/Sc09fe6269f8641aaba581ce84862a49fr.avif",
+        "precio": 42.000,
+        "categoria": {
+            "nombre": "Peluches de barcos",
+            "id": "peluches de barcos"
+        }
+    },
+    {
+        "id":3,
+        "titulo": "Sombreros de One Piece",
+        "imagen": "../img/images.jpeg",
+        "precio": 60.000,
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "Sombreros"
+        }
+    },
+    {
+        "id":4,
+        "titulo": "Sombreros de One Piece",
+        "imagen": "../img/images (2).jpeg",
+        "precio": 57.000,
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "Sombreros"
+        }
+    },
+    {
+        "id":5,
+        "titulo": "Carteles se busca de One Piece",
+        "imagen": "../img/D_NQ_NP_2X_786588-MCO84522900522_052025-T.webp",
+        "precio": 25.000,
+        "categoria": {
+            "nombre": "Carteles",
+            "id": "Carteles"
+        }
+    },
+    {
+        "id":6,
+        "titulo": "Carteles se busca de One Piece",
+        "imagen": "../img/il_fullxfull.5765041452_ffv3.avif",
+        "precio": 25.000,
+        "categoria": {
+            "nombre": "Carteles",
+            "id": "Carteles"
+        }
+    },
+    {
+        "id":7,
+        "titulo": "Juguetes o juegos de One Piece",
+        "imagen": "../img/1-7-scaled-268x268.png",
+        "precio": 40.000,
+        "categoria": {
+            "nombre": "Juguetes o juegos",
+            "id": "Juguetes o juegos"
+        }
+    },
+    {
+        "id":8,
+        "titulo": "Juguetes o juegos de One Piece",
+        "imagen": "../img/lego-one-piece-the-going-merry-pirate-ship-75639-de-1376.webp",
+        "precio": 300.000,
+        "categoria": {
+            "nombre": "Juguetes o juegos",
+            "id": "Juguetes o juegos"
+        }
+    },
+    {
+        "id":9,
+        "titulo": "Camisas o busos de One Piece de One Piece",
+        "imagen": "../img/0560d062e129c7edfa8d22fb10a98fb2.jpeg",
+        "precio": 150.000,
+        "categoria": {
+            "nombre": "Camisas o busos de One Piece",
+            "id": "Camisas o busos de One Piece"
+        }
+    },
+    {
+        "id":10,
+        "titulo": "Camisas o busos de One Piece de One Piece",
+        "imagen": "../img/D_NQ_NP_691102-MCO77284536935_062024-O.webp",
+        "precio": 250.000,
+        "categoria": {
+            "nombre": "Camisas o busos de One Piece",
+            "id": "Camisas o busos de One Piece"
+        }
+    },
+    {
+        "id":11,
+        "titulo": "Camisas o busos de One Piece de One Piece",
+        "imagen": "../img/Oversize-Gear-5-Luffy_13cfe6fa-18f4-40fc-8cf5-fa29bb909ec8.webp",
+        "precio": 175.000,
+        "categoria": {
+            "nombre": "Camisas o busos de One Piece",
+            "id": "Camisas o busos de One Piece"
+        }
+    },
+    {
+        "id":12,
+        "titulo": "Camisas o busos de One Piece de One Piece",
+        "imagen": "../img/sin-titulo-222222-203770d88e29cbfd6417543605942372-480-0.webp",
+        "precio": 210.000,
+        "categoria": {
+            "nombre": "Camisas o busos de One Piece",
+            "id": "Camisas o busos de One Piece"
+        }
+    },
+    {
+        "id":13,
+        "titulo": "Juguetes o juegos de One Piece",
+        "imagen": "../img/6353da47aa36231264696794-10pcs-anime-one-piece-action-figure-toys.jpg",
+        "precio": 65.000,
+        "categoria": {
+            "nombre": "Juguetes o juegos",
+            "id": "Juguetes o juegos"
+        }
+    },
+    {
+        "id":14,
+        "titulo": "Juguetes o juegos de One Piece",
+        "imagen": "../img/D_NQ_NP_834254-MCO46755433458_072021-O.webp",
+        "precio": 150.000,
+        "categoria": {
+            "nombre": "Juguetes o juegos",
+            "id": "Juguetes o juegos"
+        }
+    },
+    {
+        "id":15,
+        "titulo": "Pins de One Piece",
+        "imagen": "../img/images (1).jpeg",
+        "precio": 5.000,
+        "categoria": {
+            "nombre": "Pins",
+            "id": "Pins"
+        }
+    }
+
+]
